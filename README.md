@@ -1,3 +1,5 @@
+## Imp: The repo has been shifted to [here](https://github.com/niloysikdar/jwoc-admin) due to vercel deployment issues for teams.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
